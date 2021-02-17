@@ -1,0 +1,14 @@
+module.exports = {
+    name: '',
+    description: '',
+    usage: '',
+    aliases: ['', ''],
+    permissions: [],
+    botPermissions: [],
+    nsfw: false,
+    cooldown: 0,
+    ownerOnly: false
+}
+module.exports.execute = async(client, msg, args, data) => {
+  
+}

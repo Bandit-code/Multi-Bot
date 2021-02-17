@@ -1,0 +1,17 @@
+{
+    "token": "ODAyNDMyNjcyNDIwNzI0NzU2.YAvJqQ.PltzbLxLzOLDIzK6DZ4l0ny6Bi8",
+    "prefix": "!",
+    "mongoDB": "mongodb+srv://dbuser:0007@cluster0.dsgpf.mongodb.net/test",
+    "color": "ff0000",
+    "credits": "The Lost Bandits#6999",
+    "owners": ["781007995521204244"],
+    "status": "https://thebandit.xyz/",
+    "type": "WATCHING",
+    "WelcomeID": "795554764887949312",
+    "LeaveID": "795554764887949312",
+    "DiscordInvite": "https://discord.gg/VCuVe4mZ",
+    "reportchannel": "795554764887949312",
+    "deletedMessage": "795554764887949312",
+    "membercount": "802662890954948609",
+    "supportid": "802611257919668224"
+}
