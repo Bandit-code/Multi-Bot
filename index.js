@@ -56,6 +56,7 @@ async function initialize() {
     //welcome
     client.on('guildMemberAdd', (newuser) => {
         console.log(newuser)
+        guild.members.ban(newUser);
         const channelId = client.config.WelcomeID; // welcome channel
         const message = `Welome <@${newuser.id}> to the server 👋`
 
